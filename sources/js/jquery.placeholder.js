@@ -6,10 +6,15 @@
 				 2.检测浏览器是否支持placeholder属性
 				 3.获取所有placeholder属性的元素并模拟
 				 * */
+/*
 jQuery placeholder plugin 1.0.0
+小伍
+2016年12月30日
+https://github.com/547377507/jquery-placeholder
+*/
 
-
-;(function($) {
+;
+(function($) {
 	//  ================================ 
 	//  = Placeholder class definition = 
 	//  ================================ 
