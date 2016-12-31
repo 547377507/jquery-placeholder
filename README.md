@@ -9,5 +9,6 @@
 	</div>
 
 这是一个'金色'的秋天
-![花儿](http://ww3.sinaimg.cn/large/6aee7dbbgw1effezhonxlj20e009c3yu.jpg)
+
+![花儿](http://thumbnail0.baidupcs.com/thumbnail/46f48ce4cf67a2e799acc8f790be7599?fid=188548762-250528-1092470609643052&time=1483182000&rt=yt&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-X1reM2Te3TzXUK3TiMMcvDtcS7I%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=8483790431145307828&dp-callid=0&size=c1920_u1080&quality=100)
 
