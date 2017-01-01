@@ -21,7 +21,7 @@ https://github.com/547377507/jquery-placeholder
 	var Placeholder = function(ele, opt) {
 		this.$element = $(ele);
 		this.defaultobj = {
-			placeholderText: this.$element.attr('placeholder'),
+			placeholderText: this.$element.attr('placeholder')||'',
 			placeholderClass: 'placeholder-text'
 		};
 		this.options = $.extend({}, this.defaultobj, opt);
