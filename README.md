@@ -4,7 +4,7 @@
 
 如有问题不吝请教~  
 效果图如下:  
-![效果图](https://picabstract-preview-ftn.weiyun.com:8443/ftn_pic_abs_v2/824f6d703fbe420e2537c103a840af188454a0933894fd18c5376ae9b678613667985119e9baddb518d23c23c04b1537?pictype=scale&from=30013&version=2.0.0.2&uin=547377507&fname=rendering.png&size=1024*1024)
+![效果图](/sources/img/rendering.png)
 ## HTML基本结构
 ``` html
 <div class="placeholder-text-box">
